@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tabuadacomloop", "tabuadacomloop.csproj", "{966D792C-B54E-4D93-BD79-1BF139EB9381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Debug|x64.ActiveCfg = Debug|x64
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Debug|x64.Build.0 = Debug|x64
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Release|x64.ActiveCfg = Release|x64
+		{966D792C-B54E-4D93-BD79-1BF139EB9381}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C040CA-FD3E-4125-9ABA-9B84831820DF}
+	EndGlobalSection
+EndGlobal
