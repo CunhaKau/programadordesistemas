@@ -1,0 +1,10 @@
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\bin\x64\Debug\arrayunidimencional-vetor.exe.config
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\bin\x64\Debug\arrayunidimencional-vetor.exe
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\bin\x64\Debug\arrayunidimencional-vetor.pdb
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional-vetor.csproj.AssemblyReference.cache
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional_vetor.frmVetor.resources
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional_vetor.Properties.Resources.resources
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional-vetor.csproj.GenerateResource.cache
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional-vetor.csproj.CoreCompileInputs.cache
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional-vetor.exe
+C:\Users\ana.cscunha1\source\programadordesistemas\arrayunidimencional-vetor\obj\x64\Debug\arrayunidimencional-vetor.pdb
